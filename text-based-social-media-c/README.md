@@ -6,7 +6,7 @@ This project is a text-based social media application implemented in C.
 The program runs in a terminal environment and models basic social media
 functionality using dynamic data structures. 
 
-## Features
+## Features:
 
 - User creation with unique password enforcement
 - Password updates with old-password verification
@@ -14,7 +14,7 @@ functionality using dynamic data structures.
 - Managing a user friends list using an alphabetically sorted stack
 - Viewing a user’s catalogue of posts via username search
 
-## Technical Focus
+## Technical Focus:
 
 - Implemented core logic in C using dynamically allocated data structures
 - Stack-based and linked data structure manipulation
