@@ -7,5 +7,5 @@ Due to university academic integrity policies, full implementations are kept
 in private repositories. This repository focuses on describing project scope, challenges, and skills develope
 
 #Projects
-Text-Based Social Media Application (C):(./text-based-social-media-c)
+[Text-Based Social Media Application (C)](./text-based-social-media-c)
 
