@@ -8,4 +8,5 @@ in private repositories. This repository focuses on describing project scope, ch
 
 #Projects
 [Text-Based Social Media Application (C)](./text-based-social-media-c)
+[Project Performance Tracker (C)](./project-performance-tracker)
 
