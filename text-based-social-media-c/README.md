@@ -23,4 +23,4 @@ functionality using dynamic data structures.
 
 ## Additional Notes:
 The full implementation will be kept in private repositories to comply with university academic
-integrity policies.
+integrity policies. However, we can discuss the project furthur if needed.
